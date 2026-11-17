@@ -21,6 +21,6 @@ Building autonomous AI agents with persistent memory and tinkering with Linux/An
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmptinessDeveloper&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptinessDeveloper&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="150" />
+  <img src="https://streak-stats.demolab.com?user=EmptinessDeveloper&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmptinessDeveloper&bg_color=0d1117&color=c9d1d9&line=8b949e&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
