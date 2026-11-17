@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/EmptinessDeveloper">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%2F%2F+Veiro+%E2%80%94+Systems+%26+AI+Tinkerer;Building+autonomous+AI+agents;Compiling+ARM64+LFS+on+Android;EmptinessDeveloper+%40+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Breaking+things+day+by+day;Error%3A+text+failed+to+load;git+commit+-m+%22fix+everything%22;EmptinessDeveloper+%40+GitHub" alt="Typing SVG" />
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-EmptinessDeveloper-181717?style=flat-square&logo=github)](https://github.com/EmptinessDeveloper)
