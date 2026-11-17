@@ -15,7 +15,7 @@ Building autonomous AI agents with persistent memory and tinkering with Linux/An
 
 #### ⚡ Active Work
 - **Akari** — Autonomous AI agent architecture with RAG, Qdrant vector memory, and multi-model routing.
-- **arm64-lfs** — Linux From Scratch & KDE Plasma builds running on Android/Termux.
+- **arm64-lfs** — Linux From Scratch & KDE Plasma.
 - **Client Extensions** — Custom plugins and UI enhancements for Telegram clients.
 
 ---
